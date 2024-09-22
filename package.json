@@ -1,11 +1,16 @@
 {
   "name": "create-wasmify-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "create-wasmify-react": "./index.js"
   },
-  "keywords": ["react", "wasm", "webassembly", "go"],
+  "keywords": [
+    "react",
+    "wasm",
+    "webassembly",
+    "go"
+  ],
   "author": "Kushan Shamika",
   "license": "MIT",
   "description": "Create a new wasmify-react project",
