@@ -1,6 +1,6 @@
 # Create Wasmify React
 
-![Placeholder for Logo](logo.png)
+![Placeholder for Logo](https://i.ibb.co/bgK0FmQ/wasify-react.png)
 
 A boilerplate tool to generate a React application pre-configured with WebAssembly (WASM) support.
 
